@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Flask instance folder
+instance/
+*.db
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Python egg and distribution folders
+*.egg-info/
+dist/
+build/
+
+# PDF reports (optional)
+*.pdf
+
+# Frontend build (if using Next.js/React later)
+frontend/.next/
+frontend/node_modules/
+frontend/build/
