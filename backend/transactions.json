@@ -1,0 +1,5 @@
+[
+  { "date": "2025-07-15", "description": "Uber Ride", "amount": -12.50 },
+  { "date": "2025-07-14", "description": "Freelance Payment", "amount": 1200.00 },
+  { "date": "2025-07-10", "description": "Tesco Groceries", "amount": -45.30 }
+]
